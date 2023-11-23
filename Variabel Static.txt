@@ -1,0 +1,4 @@
+Variabel Statik adalah 
+variabel yang ada di dalam class itu sendiri
+
+di python = class variabel
